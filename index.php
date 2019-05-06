@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>TEST 6</title>
+    <title>TEST 7</title>
 </head>
 <body>
     <?php
-        echo 'TEST 6';
+        echo 'TEST 7';
     ?>
 </body>
 </html>
