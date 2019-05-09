@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.6" vertical-offset="0" max-vertical-offset="714">
+            <state vertical-scroll-proportion="1.0068493" vertical-offset="0" max-vertical-offset="714">
               <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83666664" vertical-offset="549" max-vertical-offset="1449">
+            <state vertical-scroll-proportion="-25.1" vertical-offset="549" max-vertical-offset="1449">
               <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding>
                 <marker date="1557392354863" expanded="true" signature="248:317" placeholder="INSERT INTO ..." />
@@ -184,7 +184,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -194,7 +194,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -238,11 +238,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts.js">
+    <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="771" max-vertical-offset="1701">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding />
+        <state vertical-scroll-proportion="-25.1" vertical-offset="549" max-vertical-offset="1449">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding>
+            <marker date="1557392354863" expanded="true" signature="248:317" placeholder="INSERT INTO ..." />
+            <marker date="1557392354863" expanded="true" signature="446:694" placeholder="..." />
+            <marker date="1557392354863" expanded="true" signature="902:932" placeholder="DELETE FROM ..." />
+            <marker date="1557392354863" expanded="true" signature="1115:1181" placeholder="UPDATE comme..." />
+            <marker date="1557392354863" expanded="true" signature="1314:1552" placeholder="..." />
+            <marker date="1557392354863" expanded="true" signature="1706:1728" placeholder="SELECT * FRO..comments..." />
+            <marker date="1557392354863" expanded="true" signature="1894:2160" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -254,28 +262,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.6" vertical-offset="0" max-vertical-offset="714">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="771" max-vertical-offset="1701">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83666664" vertical-offset="549" max-vertical-offset="1449">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        <state vertical-scroll-proportion="1.0068493" vertical-offset="0" max-vertical-offset="714">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
-            <marker date="1557392354863" expanded="true" signature="248:317" placeholder="INSERT INTO ..." />
-            <marker date="1557392354863" expanded="true" signature="446:694" placeholder="..." />
-            <marker date="1557392354863" expanded="true" signature="902:932" placeholder="DELETE FROM ..." />
-            <marker date="1557392354863" expanded="true" signature="1115:1181" placeholder="UPDATE comme..." />
-            <marker date="1557392354863" expanded="true" signature="1314:1552" placeholder="..." />
-            <marker date="1557392354863" expanded="true" signature="1706:1728" placeholder="SELECT * FRO..comments..." />
-            <marker date="1557392354863" expanded="true" signature="1894:2160" placeholder="..." />
+            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
